@@ -1,6 +1,6 @@
 # Blender and STL Mesh Phantom Pose Library
 
-This repository contains Blender scripts and a generated upper-extremity moving phantom library for GGEMS/Monte Carlo simulation workflows.
+This repository contains Blender scripts and a generated upper-extremity moving phantom library for Monte Carlo simulation workflows.
 
 ## Generated Library
 

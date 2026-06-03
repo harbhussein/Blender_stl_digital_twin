@@ -1,0 +1,22 @@
+# Python/cache files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Blender backups
+*.blend1
+*.blend2
+
+# Local outputs/logs
+outputs/
+logs/
+*.log
+
+# System and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+*~

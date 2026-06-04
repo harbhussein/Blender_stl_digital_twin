@@ -87,3 +87,44 @@ After the upper-extremity library, the same structure can be extended to:
 - sitting poses: pelvis, thighs, shins, feet, lumbar/thoracic
 - bending poses: lumbar, thoracic, cervical
 - lateral body shift: pelvis and torso rotations/translations
+
+## Citation
+
+If you use this model in your research, please cite:
+
+```bibtex
+Recommended citation:
+ICRP, 2020. Adult mesh-type reference computational phantoms. ICRP Publication 145. Ann. ICRP 49(3).
+
+@article{harb2026fast,
+  title={Fast occupational upper-limb radiation dose prediction using machine learning and Monte Carlo simulation},
+  author={Harb, Hussein and Taguelmimt, Kamilia and Benoit, Didier and Pham, Chi-Hieu and Nasr, Bahaa and Bert, Julien},
+  journal={Journal of Radiological Protection},
+  volume={46},
+  number={2},
+  pages={021516},
+  year={2026},
+  publisher={IOP Publishing}
+}
+
+@article{harb2025fast,
+  title={Fast operating room scattered radiation calculation in x-ray guided interventions by using deep learning},
+  author={Harb, Hussein and Villa, Mateo and Benoit, Didier and Pham, Chi-Hieu and Nasr, Bahaa and Bert, Julien},
+  journal={Journal of Radiological Protection},
+  volume={45},
+  number={4},
+  pages={041524},
+  year={2025},
+  publisher={IOP Publishing}
+}
+
+@article{harb20263d,
+  title={Fast 3D whole-body occupational dose estimation in interventional radiology using physics-informed deep learning},
+  author={Harb, Hussein and Benoit, Didier and Pham, Chi-Hieu and Nasr, Bahaa and Bert, Julien},
+  journal={Radiological Physics and Technology},
+  pages={1--12},
+  year={2026},
+  publisher={Springer}
+}
+
+```

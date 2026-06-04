@@ -1,4 +1,4 @@
-# Blender and STL Mesh Phantom Pose Library
+# Blender and STL Mesh Phantom Digital Twin
 
 This repository contains Blender scripts and a generated upper-extremity moving phantom library for Monte Carlo simulation workflows.
 

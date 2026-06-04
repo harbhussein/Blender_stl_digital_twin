@@ -9,7 +9,7 @@ blender_path = './blender/blender-launcher.sh'
 blend_file = './blender/male_mesh_2025_dose.blend'
 
 # Additional command line arguments
-script_file = './blender_codes/to_do_script_csv123.py'
+script_file = './blender_codes/to_do_script.py'
 
 # Construct the command
 command = [blender_path, blend_file, '--python', script_file]
